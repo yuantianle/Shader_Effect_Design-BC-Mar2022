@@ -2,8 +2,8 @@
 A side project for exhibiting and uploading a collection of personally realized shader effects. The shader language is based on GLSL.
 
 ## 🔐 Code permissions:
-(1) The source code has been edited into binary form. Although downloadable, it CANNOT be compiled or modified.
-(2) To obtain decrypted files, security keys 🔑 are required. Please ask the author to provide.
+(1) The source code has been edited into binary form. Although downloadable, it CANNOT be compiled or modified.\
+(2) To obtain decrypted files, security keys 🔑 are required. Please ask the author to provide.\
 (3) Security keys 🔑 are only available to qualified examiners (including but not limited to: interviewers, collaborators, ..) 
 
 ## 🖼️ Samples of effects:
