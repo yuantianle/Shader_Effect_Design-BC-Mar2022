@@ -10,6 +10,6 @@ Security keys 🔑 of source codes are available only to qualified examiners (in
    
 &emsp;&emsp;&emsp;&emsp;<img src="Water_Flowing/Water_Flowing.gif" width="300"/>
 
-&emsp;&emsp;💠 Parallel Mapping:
+&emsp;&emsp;💠 Parallel Mapping with soft shadow:
    
 &emsp;&emsp;&emsp;&emsp;<img src="Parallel_Mapping/Parallel_Mapping.gif" width="300"/>
