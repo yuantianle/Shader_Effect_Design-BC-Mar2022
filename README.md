@@ -17,3 +17,7 @@ Security keys 🔑 of source codes are available only to qualified examiners (in
 &emsp;&emsp;💠 **Manga Stylization**:
    
 &emsp;&emsp;&emsp;&emsp;<img src="Manga_Stylization/Manga_Stylization.gif" width="300"/>
+
+&emsp;&emsp;💠 **Television Signal**:
+   
+&emsp;&emsp;&emsp;&emsp;<img src="Television_Signal/Television_Signal.gif" width="300"/>
