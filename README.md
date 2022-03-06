@@ -6,4 +6,4 @@ A side project for uploading personal collection of shader effects, which are re
 🖼️: Here are samples of the effects:
 
    💠 Water Flowing:
-        ![Alt text](Water_Flowing.gif) /Water_Flowing.gif ![](Water_Flowing.gif)
+        <img src="Water_Flowing/Water_Flowing.gif" width="128"/>
