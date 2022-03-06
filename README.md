@@ -6,6 +6,5 @@ A side project for uploading personal collection of shader effects, which are re
 🖼️: Here are samples of the effects:
 
    💠 Water Flowing:
-   <img src="Water_Flowing/Water_Flowing.gif" width="300"/>
    
    <img src="Water_Flowing/Water_Flowing.gif" width="300"/>
