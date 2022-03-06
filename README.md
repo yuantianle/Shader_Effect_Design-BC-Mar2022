@@ -8,3 +8,7 @@ A side project for uploading personal collection of shader effects, which are re
 &emsp;&emsp;💠 Water Flowing:
    
 &emsp;&emsp;&emsp;&emsp;<img src="Water_Flowing/Water_Flowing.gif" width="300"/>
+
+&emsp;&emsp;💠 Parallel Mapping:
+   
+&emsp;&emsp;&emsp;&emsp;<img src="Parallel_Mapping/Parallel_Mapping.gif" width="300"/>
