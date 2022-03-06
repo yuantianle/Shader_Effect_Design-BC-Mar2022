@@ -1,8 +1,10 @@
 # shader-effect-design
-A side project for uploading personal collection of shader effects, which are realized by OpenGL shader code.
+A side project for exhibiting and uploading a collection of personally realized shader effects. The shader language is based on GLSL.
 
 ## 🔐 Code permissions:
-Security keys 🔑 of source codes are available only to qualified examiners (including but not limited to: interviewers, collaborators, ..) 
+(1) The source code has been edited into binary form. Although downloadable, it CANNOT be compiled or modified.
+(2) To obtain decrypted files, security keys 🔑 are required. Please ask the author to provide.
+(3) Security keys 🔑 are only available to qualified examiners (including but not limited to: interviewers, collaborators, ..) 
 
 ## 🖼️ Samples of effects:
 
