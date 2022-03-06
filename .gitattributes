@@ -1,0 +1,4 @@
+# Secreting for shader codes
+*.glsl filter=git-crypt diff=git-crypt
+*.frag filter=git-crypt diff=git-crypt
+*.vert filter=git-crypt diff=git-crypt
