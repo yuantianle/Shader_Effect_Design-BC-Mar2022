@@ -21,3 +21,9 @@ A side project for exhibiting and uploading a collection of personally realized 
 &emsp;&emsp;&emsp;&emsp;<img src="Manga_Stylization/Manga_Stylization.gif" width="300"/>
 
 &emsp;&emsp;💠 **Television Signal**:
+
+&emsp;&emsp;&emsp;&emsp;<img src="Television_Signal/Television_Signal.gif" width="300"/>
+
+&emsp;&emsp;💠 **Foggy Building**:
+
+&emsp;&emsp;&emsp;&emsp;<img src="Foggy_Building/Foggy_Building.gif" width="300"/>
